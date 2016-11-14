@@ -1,0 +1,3 @@
+[digits.plugins.data]
+class = digitsDataPluginSunnybrook:DataIngestion
+

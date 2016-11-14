@@ -2,6 +2,13 @@
 
 Runs NVIDIA DIGITS in a Docker container
 
+## Build Docker Image
+
+```
+cd source
+docker build -t digits5 .
+```
+
 ## Requirements
 
 - Install Docker

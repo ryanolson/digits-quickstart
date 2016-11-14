@@ -1,0 +1,14 @@
+MANIFEST.in
+README
+digitsDataPluginSunnybrook/__init__.py
+digitsDataPluginSunnybrook/data.py
+digitsDataPluginSunnybrook/forms.py
+digitsDataPluginSunnybrook/templates/dataset_template.html
+digitsDataPluginSunnybrook/templates/inference_template.html
+digitsDataPluginSunnybrook/templates/template.html
+digits_sunnybrook_data_plugin.egg-info/PKG-INFO
+digits_sunnybrook_data_plugin.egg-info/SOURCES.txt
+digits_sunnybrook_data_plugin.egg-info/dependency_links.txt
+digits_sunnybrook_data_plugin.egg-info/entry_points.txt
+digits_sunnybrook_data_plugin.egg-info/requires.txt
+digits_sunnybrook_data_plugin.egg-info/top_level.txt
